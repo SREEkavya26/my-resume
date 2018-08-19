@@ -1,0 +1,51 @@
+{
+
+	"details":{
+		"image":"images.jpg",
+		"name":"Kavya",
+		"phno":"+91-8985717171",
+		"address":"Guntur",
+		"email":"kavyarajputh@gmail.com"
+	},
+	"careerinfo":{
+		"information":"to pursue a challenging career"
+		},
+		"ed":[
+			{
+			"qualification":"b.tech",
+			"institute":"vignan nirula",
+			"year":"2016-2020",
+			"percentage":"90%"
+			},
+			{
+			"qualification":"inter",
+			"institute":"chaitanya",
+			"year":"2014-2016",
+			"percentage":"90%"
+			},
+			{
+			"qualification":"SSC",
+			"institute":"basara",
+			"year":"2002-2014",
+			"percentage":"90%"
+			}		
+			],
+		"technicalskills":[
+			{	
+				"title":"programming languages",
+				"info":["c","c++","java","python"]
+			},
+			{	
+				"title":"Data bases",
+				"info":["sql","mysql","oracle",".net"]
+			},
+			{	
+				"title":"operating systems",
+				"info":["windows","linux","mac"]
+			}
+			],
+		"achievements":[
+			{
+				"info":["certificate in code mania,prepared Crafts"]
+			}]
+}
